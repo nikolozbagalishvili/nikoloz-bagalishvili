@@ -1,0 +1,35 @@
+header {
+    background: #2A9D8F;
+    margin: auto;
+    width: 1440px;
+    padding-block: 38px;
+    padding-left: 130px;
+}
+
+.header_logo {
+    vertical-align: middle;
+}
+
+.header_nav {
+    display: inline-block;
+}
+
+.header_li {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+.middle_li {
+    margin-inline: 80px;
+}
+
+.top_li {
+    margin-left: 701px;
+}
+
+a {
+    color: #FFFFFF;
+
+
+}
